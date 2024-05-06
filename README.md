@@ -8,6 +8,9 @@ This demo demonstrates the use of a foundational vision model (DINOv2) to retrie
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[[blog post]](https://dlfelps.github.io/2024/06/02/VIT-amster.html)
+
+
 # Few-shot learning
 
 
