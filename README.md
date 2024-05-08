@@ -13,5 +13,12 @@ This demo demonstrates the use of a foundational vision model (DINOv2) to retrie
 
 # Few-shot learning
 
+This demo compares classical vs meta-learning approaches to few-shot learning.
+
+<a target="_blank" href="https://colab.research.google.com/github/dlfelps/ml_portfolio/blob/main/few_shot_tutorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+[[blog post]](https://dlfelps.github.io/2024/06/03/few-shot.html)
 
 
