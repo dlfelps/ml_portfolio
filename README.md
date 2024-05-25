@@ -28,7 +28,7 @@ I compare classical vs meta-learning approaches to few-shot learning.
 
 I demonstrate how to make a model more explainable to a human user.
 
-<a target="_blank" href="https://colab.research.google.com/github/dlfelps/ml_portfolio/blob/main/few_shot_tutorial.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/dlfelps/ml_portfolio/blob/main/concept_bottleneck.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
