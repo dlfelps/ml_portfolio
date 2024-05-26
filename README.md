@@ -32,7 +32,7 @@ I demonstrate how to make a model more explainable to a human user.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[[blog post]](https://dlfelps.github.io/2024/06/03/few-shot.html)
+[[blog post]](https://dlfelps.github.io/2024/06/04/explainable.html)
 
 
 
@@ -44,6 +44,6 @@ I demonstrate how to fool a machine learning model.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[[blog post]](https://dlfelps.github.io/2024/06/03/few-shot.html)
+[[blog post]](https://dlfelps.github.io/2024/07/01/adversarial.html)
 
 
