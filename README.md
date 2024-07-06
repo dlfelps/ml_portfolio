@@ -52,7 +52,7 @@ I demonstrate how to fool a machine learning model.
 
 I demonstrate how to generate synthetic data using stable diffusion. 
 
-<a target="_blank" href="https://colab.research.google.com/github/dlfelps/ml_portfolio/blob/main/adversarial_ai_cub.ipynb">
+<a target="_blank" href="https://github.com/dlfelps/ml_portfolio/blob/main/generative_ai_cub.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
